@@ -1,0 +1,6 @@
+﻿  GameState.cpp
+C:\Users\Bartosz\Desktop\BartekGra\BartekGra\GameState.cpp(158,30): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+C:\Users\Bartosz\Desktop\BartekGra\BartekGra\GameState.cpp(163,35): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+C:\Users\Bartosz\Desktop\BartekGra\BartekGra\GameState.cpp(224,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+C:\Users\Bartosz\Desktop\BartekGra\BartekGra\main.cpp(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'vld.h': No such file or directory

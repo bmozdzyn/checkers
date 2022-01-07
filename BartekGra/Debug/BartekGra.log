@@ -1,0 +1,2 @@
+﻿LINK : fatal error LNK1104: nie można otworzyć pliku „vld.lib”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: Polecenie „link.exe” zakończone przez kod 1104.

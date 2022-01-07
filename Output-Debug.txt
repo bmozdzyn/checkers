@@ -1,0 +1,81 @@
+﻿'BartekGra.exe' (Win32): Loaded 'S:\Users\sszyn\source\repos\BartekGra\Debug\BartekGra.exe'. Symbols loaded.
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'BartekGra.exe' (Win32): Loaded 'S:\Users\sszyn\source\repos\BartekGra\BartekGra\sfml-graphics-d-2.dll'. 
+'BartekGra.exe' (Win32): Loaded 'S:\Users\sszyn\source\repos\BartekGra\BartekGra\sfml-window-d-2.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'BartekGra.exe' (Win32): Loaded 'S:\Users\sszyn\source\repos\BartekGra\BartekGra\sfml-system-d-2.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\opengl32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winmm.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\glu32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+The thread 0x218c has exited with code 0 (0x0).
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\clbcatq.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\AppXDeploymentClient.dll'. 
+'BartekGra.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\AppXDeploymentClient.dll'
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_edf184f24a37bacd\nvoglv32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\setupapi.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wtsapi32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\version.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\devobj.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wintrust.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\crypt32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msasn1.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. 
+The thread 0x390 has exited with code 0 (0x0).
+The thread 0x3318 has exited with code 0 (0x0).
+The thread 0x2470 has exited with code 0 (0x0).
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\DXCore.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wldp.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nvspcap.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dwmapi.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\powrprof.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\umpdc.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winsta.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dinput8.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\InputHost.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\propsys.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\hid.dll'. 
+'BartekGra.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. 
+The thread 0x2bb4 has exited with code 0 (0x0).
+The thread 0x2dc0 has exited with code 0 (0x0).
+The thread 0x3594 has exited with code 0 (0x0).
+The thread 0x36a4 has exited with code 0 (0x0).
+The thread 0x2688 has exited with code 0 (0x0).
+The thread 0x3248 has exited with code 0 (0x0).
+The thread 0x28cc has exited with code 0 (0x0).
+The thread 0x2130 has exited with code 0 (0x0).
+The thread 0x4c14 has exited with code 0 (0x0).
+The thread 0x4c6c has exited with code 0 (0x0).
+The program '[2804] BartekGra.exe' has exited with code 0 (0x0).
